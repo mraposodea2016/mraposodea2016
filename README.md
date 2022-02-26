@@ -1,16 +1,16 @@
-Hi there,
+Hello there,
 
-My focus over the next few months here is to strengthen my Computer Science foundations, to be able to develop more scalable and useful software solutions.
+My focus has been directed to advancing my knowledge of Data Science, to be able to develop more scalable and useful software solutions.
 
-As of mid-February, I've been spending most of my focus time on a few specific knowledge domains, including:
+Lately, I've been spending most of my focus time on a few knowledge domains, including:
 - Data Structures and Algorithms, based on <i>Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein</i>
 - Machine Learning, based on 
   - <i>Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron</i> 
   - and <i>Mathematics for Machine Learning, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong</i>
-- Performance Python, based on <i>Fluent Python, by Luciano Ramalho</i>
+- Python, based on <i>Fluent Python, by Luciano Ramalho</i>
 - and Quantitative Finance, based on <i>Python for Finance, by Yves Hilpisch</i>
 
-As a side project, I'd be more than willing to collaborate on any project related to the above areas and/or to Blockchain Development.
+Moving forward, I'd be willing to collaborate, full-time or part-time, on any project related to the above areas.
 
 Feel free to reach out on <a href=https://www.linkedin.com/in/matheus-raposo7/>LinkedIn<a>.
 
