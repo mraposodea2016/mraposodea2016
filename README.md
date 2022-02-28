@@ -14,6 +14,8 @@ Moving forward, I'd be willing to collaborate, full-time or part-time, on any pr
 
 Feel free to reach out on <a href=https://www.linkedin.com/in/matheus-raposo7/>LinkedIn<a>.
 
+I'm also active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
+
 <!---
 mraposodea2016/mraposodea2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
