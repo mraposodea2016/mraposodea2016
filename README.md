@@ -5,8 +5,10 @@ My focus has been directed to advancing my knowledge of Data Science, to be able
 Lately, I've been spending most of my focus time on a few knowledge domains, including:
 - Data Structures and Algorithms, based on <i>Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein</i>
 - Machine Learning, based on 
-  - <i>Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron</i> 
-  - and <i>Mathematics for Machine Learning, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong</i>
+  - <i>Elements of Statistical Learning, by Trevor Hastie, Robert Tibshirani and Jerome Friedman</i>,
+  - <i>Learning from Data, by Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin</i>,
+  - <i>Mathematics for Machine Learning, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong</i>
+  - and <i>Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron</i>
 - Python, based on <i>Fluent Python, by Luciano Ramalho</i>
 - and Quantitative Finance, based on <i>Python for Finance, by Yves Hilpisch</i>
 
