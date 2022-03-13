@@ -2,7 +2,7 @@ Hello there,
 
 Here you'll find some work I've been doing to advance my knowledge of Data Science and Full Stack Development.
 
-I've been using the following resources to guide learning and projects:
+I've been using the following resources as references:
 - for Machine Learning
   - <i>Mathematics for Machine Learning, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong</i>
   - <i>An Introduction to Statistical Learning, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani</i>,
