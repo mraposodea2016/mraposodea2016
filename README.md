@@ -1,20 +1,16 @@
 Hello there,
 
-My focus has been directed to advancing my knowledge of Data Science, to be able to develop more scalable and useful software solutions.
+Here you'll find some work I've been doing to advance my knowledge of Data Science and Full Stack Development.
 
-Lately, I've been spending most of my focus time on a few knowledge domains, including:
-- Data Structures and Algorithms, based on <i>Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein</i>
-- Machine Learning, based on 
-  - <i>Elements of Statistical Learning, by Trevor Hastie, Robert Tibshirani and Jerome Friedman</i>,
-  - <i>Learning from Data, by Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin</i>,
+I've been guided by the following resources:
+- for Machine Learning
   - <i>Mathematics for Machine Learning, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong</i>
+  - <i>An Introduction to Statistical Learning, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani</i>,
   - and <i>Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron</i>
-- Python, based on <i>Fluent Python, by Luciano Ramalho</i>
-- and Quantitative Finance, based on <i>Python for Finance, by Yves Hilpisch</i>
+- for Full Stack Development
+  - <i>Modern Full Stack Development, by Frank Zammetti</i>
 
-Moving forward, I'd be willing to collaborate, full-time or part-time, on any project related to the above areas.
-
-Feel free to reach out on <a href=https://www.linkedin.com/in/matheus-raposo7/>LinkedIn<a>.
+Feel free to reach out if you are willing to collaborate on any project related to the above areas.
 
 I'm also active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
 
