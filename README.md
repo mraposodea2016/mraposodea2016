@@ -1,6 +1,6 @@
 Hello there,
 
-Feel free to reach out if you are willing to collaborate on any project related to Software Engineering or Blockchain.
+Feel free to reach out if you are willing to collaborate on any project related to Quantitative Finance or Blockchain.
 
 I'm also active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
 
