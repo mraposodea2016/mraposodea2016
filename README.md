@@ -1,10 +1,12 @@
 Hello there,
 
-I'm currently transitioning from a career in Data Science to one in Full Stack Development.
+I'm using this repo to build and display my portfolio as a Full Stack Developer. 
 
-Feel free to reach out if you are willing to collaborate on any related projects.
+Here you'll find code related to projects, tutorials, and books studies that I have completed, as well as ongoing projects.
 
-I'm also active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
+Feel free to reach out if you are willing to collaborate on any project.
+
+I've also been active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
 
 <!---
 mraposodea2016/mraposodea2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
