@@ -6,7 +6,7 @@ Here you'll find code related to projects, tutorials, and book studies that I ha
 
 Feel free to reach out if you are willing to work together.
 
-I've also been active on <a href=https://www.hackerrank.com/matheus_raposo>HackerRank<a>.
+Also a frequent user of <a href=https://www.hackerrank.com/matheus_raposo>HackerRank</a> and <a href="https://leetcode.com/matheus_raposo/">LeetCode</a>.
 
 <!---
 mraposodea2016/mraposodea2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
