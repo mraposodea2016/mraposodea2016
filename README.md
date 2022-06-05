@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="92" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/youtube/youtube.png" />
+  <img width="92" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/react/react.png" />
 </p>
 
 <div align="center">
@@ -9,18 +9,25 @@
 </div>
 
 <div align="center">
-  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" /></a> <a href="https://leetcode.com/matheus_raposo/" target="blank">LeetCode: <img align="center" src="" alt="Medium" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" /></a> <a href="https://leetcode.com/matheus_raposo/" target="blank">LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" /></a>
 </div>
 
 <br/>
 
 <div align="center" display="flex" flex-direction="column">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&show_icons=true&theme=tokyonight)
+  <a>
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
+  </a>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook&layout=compact)
+  <a>
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook&layout=compact&langs_count=8" />
+  </a>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true)
+  <a>
+    <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true" />
+  </a>
+
 </div>
 
 ## Repos
@@ -33,13 +40,13 @@
 
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/python/python.png" alt="Python" width="40" height="40"></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/javascript/javascript.png" alt="Javascript" width="40" height="40"></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/cpp/cpp.png" alt="C++" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/go/go.png" alt="Golang" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/css/css.png" alt="css3" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/typescript/typescript.png" alt="Typescript" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/html/html.png" alt="html5" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/css/css.png" alt="css3" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/cpp/cpp.png" alt="C++" width="40" height="40"/></code>
+<code><img src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/golang.png" alt="Golang" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/typescript/typescript.png" alt="Typescript" width="40" height="40"/></code>
 
 **Frameworks:**
 
