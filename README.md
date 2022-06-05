@@ -9,30 +9,31 @@
 </div>
 
 <div align="center">
-  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" /></a> <a href="https://leetcode.com/matheus_raposo/" target="blank">LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">
+    HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" />
+  </a>
+  
+  <a href="https://leetcode.com/matheus_raposo/" target="blank">
+    LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" />
+  </a>
 </div>
 
 <br/>
 
-<div align="center" display="flex" flex-direction="column">
-  
+<div align="center">
   <a>
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
-  </a>
-  
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
+  </a> &nbsp;&nbsp;
   <a>
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook&layout=compact&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook&layout=compact&langs_count=8" />
   </a>
-  
-  <a>
-    <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true" />
-  </a>
-
 </div>
 
-## Repos
+<div align="center" display="flex" flex-direction="column">
+  <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true" />
+</div>
 
-[![Exchange](https://github-readme-stats.vercel.app/api/pin/?username=mtsraposo&repo=exchange&show_owner=true)](https://github.com/mtsraposo/exchange)
+</div>
 
 ## Stack
 
