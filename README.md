@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=400&lines=Hi,+I'm+Matheus+Raposo;I'm+a+Software+Engineer+based+in+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=600&lines=Hello+there,+I'm+Matheus+Raposo)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center" display="flex" flex-direction="column">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsraposo&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&show_icons=true&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook&layout=compact)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&theme=neon-palenight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true)
 </div>
 
 ## Repos
