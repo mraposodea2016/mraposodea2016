@@ -9,18 +9,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">
-    HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/matheus_raposo/" target="blank">
-    LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
   </a> &nbsp;&nbsp;
@@ -71,6 +59,17 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/linux/linux.png" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/aws/aws.png"></code>
 
+<div>
+  <a href="https://www.hackerrank.com/matheus_raposo" target="blank">
+    HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" />
+  </a>
+  
+  <a href="https://leetcode.com/matheus_raposo/" target="blank">
+    LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" />
+  </a>
+</div>
+
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=mtsraposo)
 
