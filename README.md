@@ -36,6 +36,7 @@
 <code><img src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/golang.png" alt="Golang" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/csharp/csharp.png" alt="C#" width="40" height="40"/></code>
 
 **Frameworks:**
 
@@ -44,6 +45,7 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/react-native/react-native.png" alt="React Native" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/react/react.png" alt="React" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/redux/redux.png" alt="Redux" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/dotnet/dotnet.png" alt=".NET" width="40" height="40"/></code>
 
 **Databases:**
 
@@ -52,7 +54,8 @@
 
 **Tools:**
 
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/intellij-idea/intellij-idea.png" alt="Intellij-IDEA" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/intellij-idea/intellij-idea.png" alt="Intellij" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/docker/docker.png" alt="Docker" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/bash/bash.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/git/git.png" alt="git" width="40" height="40"/></code>
@@ -61,11 +64,11 @@
 
 <div>
   <a href="https://www.hackerrank.com/matheus_raposo" target="blank">
-    HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="Medium" height="30" width="40" />
+    HackerRank: <img align="center" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/hackerrank/hackerrank.png" alt="HackerRank" height="30" width="40" />
   </a>
   
   <a href="https://leetcode.com/matheus_raposo/" target="blank">
-    LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="Medium" height="30" width="40" />
+    LeetCode: <img align="center" src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/leetcode.png" alt="LeetCode" height="30" width="40" />
   </a>
 </div>
 
