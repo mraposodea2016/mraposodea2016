@@ -37,6 +37,8 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/csharp/csharp.png" alt="C#" width="40" height="40"/></code>
+<code><img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png#gh-light-mode-only" alt="Elixir" height="40" /></code>
+<code><img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" alt="Elixir" height="40" /></code>
 
 **Frameworks:**
 
