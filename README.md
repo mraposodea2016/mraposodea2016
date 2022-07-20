@@ -37,10 +37,14 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/csharp/csharp.png" alt="C#" width="40" height="40"/></code>
-<code><img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png#gh-light-mode-only" alt="Elixir" height="40" /></code>
-<code><img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" alt="Elixir" height="40" /></code>
+<code>
+  <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png#gh-light-mode-only" alt="Elixir" height="40" />
+  <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" alt="Elixir" height="40" /></code>
 <code><img src="https://github.com/github/explore/blob/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/clojure/clojure.png" alt="Clojure" height="40" /></code>
-<code><img src="https://github.com/github/explore/blob/0571eb0686ed1dafbb4a05fd2543fb88143e024d/topics/rust/rust.png" alt="Rust" height="40" /></code>
+<code>
+  <img src="https://github.com/github/explore/blob/0571eb0686ed1dafbb4a05fd2543fb88143e024d/topics/rust/rust.png#gh-light-mode-only" alt="Rust" height="40" />
+  <img src="https://github.com/mtsraposo/mtsraposo/blob/ab20cfa971d1e6672a7d739e93e5455b5f2e997b/assets/rust.png#gh-dark-mode-only" alt="Rust" height="40" />
+</code>
 
 **Frameworks:**
 
