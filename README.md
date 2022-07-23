@@ -13,7 +13,7 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
   </a> &nbsp;&nbsp;
   <a>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook,C%23,HTML,CSS,Java,Ruby,C%2B%2B&layout=compact&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook,C%23,HTML,CSS,Java,Ruby,C%2B%2B,JavaScript,Python&layout=compact&langs_count=8" />
   </a>
 </div>
 
