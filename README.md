@@ -1,25 +1,25 @@
-<p align="center">
+<!-- <p align="center">
   <img width="92" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/react/react.png" />
-</p>
+</p> -->
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=600&lines=Hello+there,+I'm+Matheus+Raposo)](https://git.io/typing-svg)
 
 </div>
-
+<!-- 
 <div align="center">
   <a>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mtsraposo&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" />
   </a> &nbsp;&nbsp;
   <a>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&hide=jupyter%20notebook,C%23,HTML,CSS,Java,Ruby,C%2B%2B,JavaScript,Python&layout=compact&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsraposo&layout=compact&langs_count=8" />
   </a>
-</div>
+</div> -->
 
-<div align="center" display="flex" flex-direction="column">
+<!-- <div align="center" display="flex" flex-direction="column">
   <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mtsraposo&count_private=true&theme=neon-palenight&hide_border=true" />
-</div>
+</div> -->
 
 </div>
 
