@@ -34,19 +34,22 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/css/css.png" alt="css3" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/cpp/cpp.png" alt="C++" width="40" height="40"/></code>
 <code><img src="https://github.com/mtsraposo/mtsraposo/blob/725928acbfaefc15f0cb3f82afd364163e13bff8/assets/golang.png" alt="Golang" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/csharp/csharp.png" alt="C#" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/swift/swift.png" alt="Swift" height="40" /></code>
 <code>
   <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png#gh-light-mode-only" alt="Elixir" height="40" />
-  <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" alt="Elixir" height="40" /></code>
+  <img src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo-dark.png#gh-dark-mode-only" alt="Elixir" height="40" />
+</code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/bash/bash.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/clojure/clojure.png" alt="Clojure" height="40" /></code>
 <code>
   <img src="https://github.com/github/explore/blob/0571eb0686ed1dafbb4a05fd2543fb88143e024d/topics/rust/rust.png#gh-light-mode-only" alt="Rust" height="40" />
   <img src="https://github.com/mtsraposo/mtsraposo/blob/ab20cfa971d1e6672a7d739e93e5455b5f2e997b/assets/rust.png#gh-dark-mode-only" alt="Rust" height="40" />
 </code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/scala/scala.png" alt="Scala" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/csharp/csharp.png" alt="C#" width="40" height="40"/></code>
 
-**Frameworks:**
+**Frameworks**
 
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/express/express.png" alt="Express" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/nodejs/nodejs.png" alt="NodeJS" width="40" height="40"/></code>
@@ -55,20 +58,41 @@
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/redux/redux.png" alt="Redux" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/dotnet/dotnet.png" alt=".NET" width="40" height="40"/></code>
 
-**Databases:**
+**Storage**
 
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/redis/redis.png" alt="Redis" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/elasticsearch/elasticsearch.png" alt="ElasticSearch" width="40" height="40"/></code>
 
-**Tools:**
+**IDEs**
 
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/intellij-idea/intellij-idea.png" alt="Intellij" width="40" height="40"/></code>
 <code><img src="https://github.com/github/explore/blob/97a255389561dd9994f71cc95be80bc0fb6c8ef2/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/xcode/xcode.png" alt="XCode" width="40" height="40"/></code>
+
+**DevOps**
+
 <code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/docker/docker.png" alt="Docker" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/bash/bash.png" alt="bash" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/git/git.png" alt="git" width="40" height="40"/></code>
-<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/linux/linux.png" alt="linux" width="40" height="40"/></code>
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="40" height="40"/></code>
 <code><img height="40" src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/aws/aws.png"></code>
+
+**Version Control**
+
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/git/git.png" alt="git" width="40" height="40"/></code>
+
+**OS**
+
+<code><img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/linux/linux.png" alt="linux" width="40" height="40"/></code>
+<code>
+  <img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/macos/macos.png#gh-light-mode-only" alt="MacOS" height="40" />
+  <img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/macos/macos.png#gh-dark-mode-only" alt="MacOS" height="40" />
+</code>
+<code>
+  <img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ios/ios.png#gh-light-mode-only" alt="iOS" height="40" />
+  <img src="https://github.com/github/explore/blob/48bcc8460d5ba3b7e439dbe46b6c2b1d834c5d39/topics/ios/ios.png#gh-dark-mode-only" alt="iOS" height="40" />
+</code>
+
 
 <div>
   <a href="https://www.hackerrank.com/matheus_raposo" target="blank">
